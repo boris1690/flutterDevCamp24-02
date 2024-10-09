@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 Layout UI - Session 2
 
-![screenshot](screen.png)
+![interface](screen.png)
 
