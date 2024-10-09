@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 Layout UI - Session 2
 
-![interface](screen.png)
+<img src="screen.png" alt="interface" width="600" height="400">
 
